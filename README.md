@@ -1,6 +1,19 @@
 # Hi there, I'm Srijana KC! 👋
 
-Welcome to my GitHub profile! I'm a passionate **UI/UX Designer** specializing in creating beautiful, user-centric designs using **Figma**. My mission is to craft intuitive and visually appealing digital experiences that delight users and solve real-world problems.
+## Welcome to My GitHub Profile! 👋
+
+I'm a passionate **UI/UX Designer** with a love for crafting **user-centric, visually stunning designs** using **Figma**.
+
+✨ **Mission:**  
+I design intuitive and delightful digital experiences that **solve real-world problems** and leave a lasting impact.
+
+## What I Do:
+- 💡 **UI/UX Design**
+- 🎨 **Figma Mastery**
+- 🚀 **User-Centered Designs**
+
+ 💻✨
+
 
 ---
 
